@@ -1,2 +1,3 @@
-# MyTodo [build using React components]
+# MyTodo 
 Manage your ToDos here
+Build using React components
